@@ -1,0 +1,20 @@
+{
+		"nextPage": 2,
+		"sort": 1,
+		"entries": [
+			{
+				"id": "abcde",
+				"name": "Langstorm",
+				"score": 55000,
+				"pic": "https://miro.medium.com/max/430/1*bopgnrkjyiu6usW4xecmqw.jpeg",
+				"rank": 1
+			},
+			{
+				"id": "fghij",
+				"name": "Langstorm",
+				"score": 55000,
+				"pic": "https://pics.me.me/one-does-not-simply-make-an-http-request-in-nodejs-51658436.png",
+				"rank": 2
+			}
+		]
+}
